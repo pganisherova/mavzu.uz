@@ -20,4 +20,5 @@ def register ():
     return render_template ("register.html")
 
 
-#  app.run (debug= True, host="127.0.0.1")
+
+#  app.run (debug= True)
